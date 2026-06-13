@@ -1,7 +1,8 @@
 package stringbasic.java;
 
-public class demo {
+public class gyukfkyu {
     public static void main(String[] args) {
-        System.out.println("Hello Wogilugiuguigiogrld");
+        System.out.println(jahlflaiefk);
     }
+
 }
